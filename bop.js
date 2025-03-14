@@ -48,3 +48,23 @@ chairCount = 32;
 var playTime = 3;
 playTime = 0;
 // console.log(playTime);
+ 
+// learning how to comment
+1.
+// football goals score
+var score = 3;
+2.
+// circle er radius
+var radius = 12;
+3.
+// my favourite dress is three
+var dress = 3;
+4.
+// birthday gift money
+var giftMoney = 100;
+5.
+/*at first i study my favourite subject logic.where i learn how many type of logic exit in human world.then i study one of boring subject.which i hate all though i can't do anything if i want to pass.the subject is social-work. now a question came to your mind why do i choose a subject which i don't like anymore. out of abag.*/
+var studyTime = 7;
+6.
+/*i sent this money to my friend account. she badly needs money. as a good friend i thought why don't i sent the money. i sent twenty thousands taka.*/
+var sendMoney = 20000;
