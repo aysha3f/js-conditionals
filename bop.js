@@ -68,3 +68,7 @@ var studyTime = 7;
 6.
 /*i sent this money to my friend account. she badly needs money. as a good friend i thought why don't i sent the money. i sent twenty thousands taka.*/
 var sendMoney = 20000;
+ 
+// camelCase script
+1.
+var favouriteFood = "Biryani"
