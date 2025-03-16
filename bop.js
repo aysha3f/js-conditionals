@@ -86,11 +86,47 @@ var username = "Jovan";
 var homeAddress = "noakhali begumganj chowmuhani";
 // console.log(homeAddress);
 5.
-var super = 34;
+// var super = 34;
 // console.log(super);
 6.
-var class = 11;
+// var class = 11;
 // console.log(class);
 7.
-var 2ndPosition = "Sakib Al Hasan";
-// console.log(2ndPosition);                                
+// var 2ndPosition = "Sakib Al Hasan";
+// console.log(2ndPosition)
+
+// converting string to number
+1.
+var math = '20';
+var total = parseInt('20') + 10;
+// console.log(total);
+2.
+var math = '3.14159'
+var total = parseInt('3.14159');
+// console.log(total);
+3.
+var math = "premikBoy"
+var total = parseInt('premikBoy')
+// console.log(total);
+4.
+var first = 3.456;
+var second = 2.789;
+var total = first + second ;
+var totalNumber = parseFloat(total.toFixed(2));
+// console.log(totalNumber);
+5.
+var first = '56.78';
+var second = '12.34';
+var total = first + second;
+var totalNumber = parseInt(first + second);
+// console.log(totalNumber);
+6.
+var first = '10.5678';
+var second = '5.4321';
+var total = parseFloat(first) + parseFloat(second);
+var totalNumber = parseFloat(total.toFixed(1));
+//  console.log(totalNumber);
+7.
+var last = '42.45689754';
+var total = parseFloat('42.45689754');
+console.log(total.toFixed(3));
