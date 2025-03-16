@@ -71,4 +71,26 @@ var sendMoney = 20000;
  
 // camelCase script
 1.
-var favouriteFood = "Biryani"
+var favouriteFood = "Biryani" ; 
+2. 
+var city = "Chittagong";
+var City = "Dhaka";
+// console.log(city);
+// console.log(City);
+3.
+var userName = "Johan";
+// console.log(userName);
+var username = "Jovan";
+// console.log(username);
+4.
+var homeAddress = "noakhali begumganj chowmuhani";
+// console.log(homeAddress);
+5.
+var super = 34;
+// console.log(super);
+6.
+var class = 11;
+// console.log(class);
+7.
+var 2ndPosition = "Sakib Al Hasan";
+// console.log(2ndPosition);                                
