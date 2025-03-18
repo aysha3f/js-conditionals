@@ -29,3 +29,52 @@ var bmi = 'weight /( height * height)';
 //    console.log('You are obese');}
 //     }
 // }
+
+
+
+//  task 3 
+
+var scores = 95;
+
+// if(scores >= 90 && scores <= 100 ){
+//     console.log("Grade: A");
+// }
+// else{
+//     if(scores >= 80 && scores <= 89){
+//         console.log("Grade: B");
+//     }
+//     else{
+//         if(scores >= 70 && scores <= 79){
+//             console.log("Grade: C");
+//         }
+   
+//     else{
+//         if(scores >= 60 && scores <= 69){
+//             console.log("Grade: D");
+//         }
+//         else{
+//             console.log("Grade: F")
+//         }
+//     }
+//     }
+// }
+// alternative way
+
+
+// if(scores >= 90 && scores <= 100 ){
+//          console.log("Grade: A");
+//     }
+//     else if(scores >= 80 && scores <= 89){
+//               console.log("Grade: B");}
+//               else if
+//                     (scores >= 70 && scores <= 79){
+//                          console.log("Grade: C");
+//                     }
+//               else if
+//                     (scores >= 60 && scores <= 69){
+//                          console.log("Grade: D");
+//                     }
+//                     else {
+//                         console.log("Grade: F");
+//                     }
+                   
