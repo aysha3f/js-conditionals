@@ -129,4 +129,27 @@ var totalNumber = parseFloat(total.toFixed(1));
 7.
 var last = '42.45689754';
 var total = parseFloat('42.45689754');
-console.log(total.toFixed(3));
+// console.log(total.toFixed(3));
+// comparison
+1.
+// console.log(7 > 5);
+2.
+var class1 = 45;
+var class2 = 50;
+// console.log(class2 > class1);
+3.
+var thai = 75;
+var hanu = 75;
+// console.log(thai == hanu);
+4.
+var target = 100;
+var rest = 95;
+// console.log(target >= rest);
+5.
+// console.log(10 != 7);
+6.
+// console.log(20 <= 15);
+7.
+var result1 = 45;
+var result2 = 97;
+// console.log(result1 > result2);
