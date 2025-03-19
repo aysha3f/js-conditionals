@@ -78,7 +78,7 @@ var scores = 95;
 //                         console.log("Grade: F");
 //                     }
                 //    task -4
-                
+
     // var myScore = 80;
     // var friendScore = 45;
     // if (myScore >= 80){
@@ -99,3 +99,11 @@ var scores = 95;
     // else{
     //     console.log("Go home and sleep. Act sad.");
     //  }
+
+    // task-5
+
+
+    // var num1 = 0;
+    // var num2 = 5;
+    // var result = (num1 > num2) ?num1 * 2 : num1 + num2
+    // console.log(result);
