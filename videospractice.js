@@ -77,4 +77,25 @@ var scores = 95;
 //                     else {
 //                         console.log("Grade: F");
 //                     }
-                   
+                //    task -4
+                
+    // var myScore = 80;
+    // var friendScore = 45;
+    // if (myScore >= 80){
+    
+    //     if (friendScore > 80){
+    //         console.log("Go for a launch");
+    //     }
+    //     else if (friendScore >= 60){
+    //         console.log("Good luck next time");
+    //     }
+    //     else if (friendScore >= 40){
+    //         console.log("Keep your friend's message unseen");
+    //     }
+    //     else{
+    //         console.log("Block your friend.");
+    //     }
+    // }
+    // else{
+    //     console.log("Go home and sleep. Act sad.");
+    //  }
